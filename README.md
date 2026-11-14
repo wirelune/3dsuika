@@ -9,6 +9,4 @@ Unofficial complete Suika Game demake for Nintendo 3DS systems.
   
 ## AI Usage
 
-AI was used to create tools to work with Nintendo proprietary 
-image format so the banner image could be crated. Rest of 
-the project is made by human
+AI was used to create tools to work with Nintendo proprietary image format so the banner image could be created.
